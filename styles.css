@@ -1,0 +1,50 @@
+.homepage-hero{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 58px;
+}
+
+.book-now{
+    position:absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.book-all{
+    position: absolute;
+
+}
+
+.btn{
+background-color: #FFC1CC !important;
+border-color: #FFC1CC !important;
+color: rgb(0, 0, 0) !important;
+}
+
+.card{
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.product-card{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.shop-btn{
+    position:absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
